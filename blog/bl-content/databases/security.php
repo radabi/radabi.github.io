@@ -1,2 +1,0 @@
-<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{"minutesBlocked":5,"numberFailuresAllowed":10,"blackList":{"5.209.17.249":{"lastFailure":1679529742,"numberFailures":1},"89.198.42.63":{"lastFailure":1680107023,"numberFailures":5},"104.28.155.199":{"lastFailure":1699700440,"numberFailures":1}}}

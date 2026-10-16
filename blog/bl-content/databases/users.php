@@ -1,2 +1,0 @@
-<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{"radabi":{"nickname":"Admin","firstName":"\u0645\u062f\u06cc\u0631","lastName":"","role":"admin","password":"4e739f775f9b5d712bcaf2457d4399d25f28a059","salt":"641b96f449bc0","email":"","registered":"2023-03-23 04:31:56","tokenRemember":"","tokenAuth":"2683ce36f045ae88350d4414ae54d7c2","tokenAuthTTL":"2009-03-15 14:00","twitter":"","facebook":"","instagram":"","codepen":"","linkedin":"","xing":"","github":"","gitlab":"","description":"","mastodon":"","vk":""}}
